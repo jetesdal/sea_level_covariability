@@ -49,6 +49,6 @@ module load conda
 conda activate /nbhome/ogrp/python/envs/dev
 ```
 
-If you already have conda installed from an existing setup, you only need to run the second command (`conda activate <path>`). The shared environment includes a comprehensive set of packages not all required for this project. You can view the list of installed packages [here](https://github.com/jkrasting/ocean-python). [environment.yml](./environment.yml) lists the subset of relevant packages for this project.
+If you already have conda installed from an existing setup, you only need to run the second command (`conda activate <path>`). The shared environment includes a comprehensive set of packages not all required for this project. You can view the list of installed packages [here](https://github.com/jkrasting/ocean-python). If you wish to build your own Python environment, you can use [environment.yml](./environment.yml) which lists a subset of Python packages that are relevant for this project.
 
 
