@@ -38,9 +38,17 @@ Over much of the ocean, steric sea level dominates zos variability. Using sea le
 
 ## Setup
 
-To run these notebooks, you will need to activate the shared Python environment. This can be activated on your workstation or on one of the analysis machines (if applicable). To activate the environment, enter into the terminal:
+Documented here we use a common Python environment to ensure the analysis in the notebooks work across platforms.
 
-If you already have conda installed in your path (perhaps from an existing install / setup):
+Common practice is to run the analysis on the GFDL system or on a GFDL workstation. 
+For detailed instructions on configuring an SSH tunnel, see [this documentation](https://hackmd.io/E9g3SumVSGurIV6ai7E1bw).
+
+If you are on the PP/AN system, you can use a shared Python environment with the following commands:
 ```bash
+module load conda
 conda activate /nbhome/ogrp/python/envs/dev
+```
+
+If you already have conda installed from an existing setup, you only need to run the second command (`conda activate <path>`). The shared environment includes a comprehensive set of packages not all required for this project. You can view the list of installed packages [here](https://github.com/jkrasting/ocean-python). [environment.yml](./environment.yml) lists the subset of relevant packages for this project.
+
 

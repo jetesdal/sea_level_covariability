@@ -1,0 +1,26 @@
+name: py311
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - dask
+  - zarr
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - netCDF4
+  - ipython
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - nc-time-axis
+  - cftime
+  - cartopy
+  - cmocean
+  - momlevel
+  - pip
