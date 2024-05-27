@@ -2,12 +2,11 @@
 
 This repository is for the spatial coherence in sea level variability project as part of the Lapenta Summer Internships 2024.
 
-## Contributors:
-    Theo Avila, University of Illinois Urbana-Champaign
-    Jan-Erik Tesdale ([jetesdal](https://github.com/jetesdal)), Princeton University/GFDL
-    Jake Steinberg ([jakesteinberg](https://github.com/jakesteinberg)), GFDL
-    Katherine Turner ([keturner8](https://github.com/keturner8)), University of Arizona/GFDL
-    John Krasting ([jkrasting](https://github.com/jkrasting)), GFDL
+Theo Avila, University of Illinois Urbana-Champaign<br>
+Jan-Erik Tesdale ([jetesdal](https://github.com/jetesdal)), Princeton University/GFDL<br>
+Jake Steinberg ([jakesteinberg](https://github.com/jakesteinberg)), GFDL<br>
+Katherine Turner ([keturner8](https://github.com/keturner8)), University of Arizona/GFDL<br>
+John Krasting ([jkrasting](https://github.com/jkrasting)), GFDL
     
 ## Objective
 Using dynamic sea level (zos) from GFDL models, identify regions of co-variability as a function of timescale.
