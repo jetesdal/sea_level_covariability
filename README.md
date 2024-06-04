@@ -69,14 +69,14 @@ conda activate /nbhome/ogrp/python/envs/dev
 
 If you already have conda installed from an existing setup, you only need to run the second command (`conda activate <path>`). The shared environment includes a comprehensive set of packages not all required for this project. You can view the list of installed packages [here](https://github.com/jkrasting/ocean-python). If you wish to build your own Python environment, you can use [environment.yml](./environment.yml) which lists a subset of Python packages that are relevant for this project.
 
-Once your environment is set up, you can start Jupyter Lab. It is best to run this in the `/work $USER` directory on your workstation. Use the following command to start Jupyter Lab on a specified port (e.g., 8784):
+Once your environment is set up, you can start Jupyter Lab. It is best to run this in the `/work $USER` directory on your workstation. Use the following command to start Jupyter Lab on a specified port (e.g., `5555`):
 
 ```bash
 jupyter lab --port=<port-number> --no-browser
 ```
 Then, open your browser and navigate to:
 `http://localhost:<port-number>/lab`
-Replace `<port-number>` with your chosen port number (e.g., `8784`). This setup allows you to run Jupyter Lab on your local machine while accessing it through your browser.
+Replace `<port-number>` with your chosen port number (e.g., `5555`). This setup allows you to run Jupyter Lab on your local machine while accessing it through your browser.
 
 
 
