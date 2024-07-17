@@ -2,7 +2,7 @@
 
 This repository is for the spatial coherence in sea level variability project as part of the Lapenta Summer Internships 2024.
 
-Theo Avila, University of Illinois Urbana-Champaign<br>
+Theo Avila ([theoavila](https://github.com/theo-avila)), University of Illinois Urbana-Champaign<br>
 Jan-Erik Tesdale ([jetesdal](https://github.com/jetesdal)), Princeton University/GFDL<br>
 Jake Steinberg ([jakesteinberg](https://github.com/jakesteinberg)), GFDL<br>
 Katherine Turner ([keturner8](https://github.com/keturner8)), University of Arizona/GFDL<br>
